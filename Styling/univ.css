@@ -182,6 +182,7 @@ span.commentLine {
 }
 .staButton /*Staff button*/
  {
+  margin-left: 1em;
   text-align: center;
   width: 7em;
 }
