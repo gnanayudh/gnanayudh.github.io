@@ -136,17 +136,17 @@ header span.text {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 40pt;
 }
+.contentArea {
+  padding: 1em;
+  background-color: rgba(0, 0, 0, 0.76);
+  color: white;
+}
 .misc {
   background-color: #1e1e1e;
   padding: 1em;
   color: white;
   font-size: 1.7em;
   text-align: center;
-}
-.contentArea {
-  padding: 1em;
-  background-color: rgba(0, 0, 0, 0.76);
-  color: white;
 }
 
 /*Code editor-like styling*/
