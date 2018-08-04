@@ -166,6 +166,7 @@ span.commentLine {
   width: 7em;
 }
 .buttonArea {
+  margin: 2em;
   text-align: center;
 }
 .stuButton a {
